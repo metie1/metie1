@@ -1,7 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=lesw1012)](https://solved.ac/lesw1012)
+[![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=lesw1012)](https://solved.ac/lesw1012)
 
 ## 🔨 Once I've used 🔨
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
