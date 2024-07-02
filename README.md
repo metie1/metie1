@@ -31,7 +31,7 @@
         <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white">
     </div>
      <!-- others -->
-    <p><strong>Frontend</strong></p>
+    <p><strong>others</strong></p>
     <div>
         <img src="https://img.shields.io/badge/react.js-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
         <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
